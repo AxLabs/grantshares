@@ -1,0 +1,3 @@
+[submodule "grantshares-contracts"]
+	path = grantshares-contracts
+	url = https://github.com/AxLabs/grantshares-contracts
