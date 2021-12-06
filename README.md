@@ -14,8 +14,8 @@ the growth and development of the Neo ecosystem. Each DAO Member may vote to app
 
 This repo is organized as follows:
 
-- `./grantshares-contracts/`: submodule pointing to https://github.com/AxLabs/grantshares-contracts, where the GrantShares smart contract is developed;
-- `./grantshares-dapp/`: submodule pointing to https://github.com/AxLabs/grantshares-dapp, where the DApp (frontend) is developed;
+- [grantshares-contracts](https://github.com/AxLabs/grantshares-contracts): submodule pointing to the repo where GrantShares smart contract is developed;
+- [grantshares-dapp](https://github.com/AxLabs/grantshares-dapp): submodule pointing to the repo where the DApp (frontend) is developed;
 
 ## GrantSharesDAO Governance
 
