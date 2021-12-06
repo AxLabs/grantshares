@@ -1,4 +1,4 @@
-# GrantShares Program
+# GrantShares Program 💰
 
 The GrantShares Program is a discretionary grants program governed by the GrantSharesDAO, where
 funds would be primarily provided by the Neo Foundation and partner initiatives.
@@ -10,27 +10,37 @@ of individuals/entities aiming to increase Neo's impact and reach through commun
 The DAO Members analyze project proposals submitted to the GrantSharesDAO, with the goal to benefit
 the growth and development of the Neo ecosystem. Each DAO Member may vote to approve or reject a proposal.
 
-## First Things First
+## First Things First 🚀
 
 This repo is organized as follows:
 
-- [grantshares-contracts](https://github.com/AxLabs/grantshares-contracts): submodule pointing to the repo where GrantShares smart contract is developed;
-- [grantshares-dapp](https://github.com/AxLabs/grantshares-dapp): submodule pointing to the repo where the DApp (frontend) is developed;
+- [grantshares-contracts](https://github.com/AxLabs/grantshares-contracts): submodule pointing to the repo where **GrantShares smart contract** is developed;
+- [grantshares-dapp](https://github.com/AxLabs/grantshares-dapp): submodule pointing to the repo where the **DApp (frontend)** is developed;
 
-## GrantSharesDAO Governance
-
-TBD.
-
-## Docs
+## GrantSharesDAO Governance ‍⚖️
 
 TBD.
 
-## Acknowledgement
+## Docs 📄
 
-[AxLabs](https://axlabs.com) develops and maintains the GrantSharesDAO, with
-the support from the whole community.
+TBD.
 
-## License
+## Acknowledgement 🙏
+
+[AxLabs](https://axlabs.com) leads, develops, and maintains the GrantSharesDAO, with
+the support from the whole community:
+
+- [Neo Foundation](https://neo.org)
+- [Neo News Today](https://neonewstoday.com)
+- [NGD](https://github.com/neo-ngd)
+- [ngdenterprise](https://ngdenterprise.com)
+- [COZ](https://coz.io)
+- [NeoNEXT](https://neonext.io)
+- [NSPCC](https://www.nspcc.ru/en/)
+- [NeoResearch](https://neoresearch.io)
+- [Red4Sec](https://red4sec.com)
+
+## License 📃
 
 Licensed under [Apache2](http://www.apache.org/licenses/LICENSE-2.0).
 
