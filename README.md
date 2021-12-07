@@ -1,14 +1,35 @@
 # GrantShares Program 💰
 
+# What?
+
 The GrantShares Program is a discretionary grants program governed by the GrantSharesDAO, where
 funds would be primarily provided by the Neo Foundation and partner initiatives.
 
-GrantSharesDAO is composed of GrantShares 'Council Members' (or, in short, "GrantSharesDAO Members"),
+GrantSharesDAO is composed of GrantShares 'Members' (or also "GrantSharesDAO Members"),
 which are initially appointed by the Neo Foundation. The GrantSharesDAO Members are a small group
 of individuals/entities aiming to increase Neo's impact and reach through community activities.
 
-The DAO Members analyze project proposals submitted to the GrantSharesDAO, with the goal to benefit
+The Members analyze project proposals submitted to the GrantSharesDAO, with the goal to benefit
 the growth and development of the Neo ecosystem. Each DAO Member may vote to approve or reject a proposal.
+
+## Why?
+
+The GrantSharesDAO is designed to give the Neo community more agility to execute initiatives
+beyond those directly supported by the Neo Foundation or other grant-based programs,
+such as [EcoBoost](https://neo.org/eco#ecoboost), [EcoFund](https://neo.org/eco#ecofund),
+or [Early Adoption](https://neo.org/eco#earlyadoption). Therefore, GrantShares doesn't compete with
+those and is regarded as a complementary program.
+
+GrantShares offers an alternative avenue for seeding **new development projects at a grassroots
+level**, as well as to offer **existing groups new opportunities** for creativity and community growth.
+
+The DAO would welcome the submission of smaller grant requests that do not fit the scope of
+existing funding tracks provided by Neo (as mentioned above), and approving those of the
+highest quality that have the potential to bring value to the Neo ecosystem.
+
+## How?
+
+TBD
 
 ## First Things First 🚀
 
