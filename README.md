@@ -1,9 +1,9 @@
 # GrantShares Program 💰🚀💚
 
-The GrantShares Program is a discretionary grants program governed by the GrantSharesDAO, where
+The GrantShares Program is a discretionary grants program governed by the **GrantSharesDAO**, where
 funds are primarily provided by the Neo Foundation and partner initiatives in the Neo ecosystem.
 
-The GrantSharesDAO is designed to give the Neo community **more agility** to execute initiatives
+The **GrantSharesDAO** is designed to give the Neo community **more agility** to execute initiatives
 beyond those directly supported by the Neo Foundation or other grant-based programs,
 such as [EcoBoost](https://neo.org/eco#ecoboost), [EcoFund](https://neo.org/eco#ecofund),
 or [Early Adoption](https://neo.org/eco#earlyadoption). Therefore, GrantShares **doesn't compete** with
@@ -12,7 +12,7 @@ those and is regarded as a **complementary program**.
 GrantShares offers an *alternative* avenue for seeding **new development projects at a grassroots
 level**, as well as to offer **existing groups new opportunities** for creativity and community growth.
 
-> The DAO welcomes the submission of smaller grant requests that do not fit the scope of
+> 👉 **GrantSharesDAO** welcomes the submission of smaller grant proposals that do not fit the scope of
 > existing funding tracks provided by Neo (as mentioned above), and approving those of the
 > highest quality that have the potential to bring value to the Neo ecosystem.
 
