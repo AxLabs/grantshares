@@ -1,35 +1,42 @@
-# GrantShares Program 💰
-
-# What?
+# GrantShares Program 💰🚀💚
 
 The GrantShares Program is a discretionary grants program governed by the GrantSharesDAO, where
-funds would be primarily provided by the Neo Foundation and partner initiatives.
+funds are primarily provided by the Neo Foundation and partner initiatives in the Neo ecosystem.
 
-GrantSharesDAO is composed of GrantShares 'Members' (or also "GrantSharesDAO Members"),
-which are initially appointed by the Neo Foundation. The GrantSharesDAO Members are a small group
-of individuals/entities aiming to increase Neo's impact and reach through community activities.
+The GrantSharesDAO is designed to give the Neo community **more agility** to execute initiatives
+beyond those directly supported by the Neo Foundation or other grant-based programs,
+such as [EcoBoost](https://neo.org/eco#ecoboost), [EcoFund](https://neo.org/eco#ecofund),
+or [Early Adoption](https://neo.org/eco#earlyadoption). Therefore, GrantShares **doesn't compete** with
+those and is regarded as a **complementary program**.
+
+GrantShares offers an *alternative* avenue for seeding **new development projects at a grassroots
+level**, as well as to offer **existing groups new opportunities** for creativity and community growth.
+
+> The DAO would welcome the submission of smaller grant requests that do not fit the scope of
+> existing funding tracks provided by Neo (as mentioned above), and approving those of the
+> highest quality that have the potential to bring value to the Neo ecosystem.
+
+# Areas of Interest for Funding
+
+There are three main categories:
+
+1. **Community Growth**
+2. **Ecosystem Recruitment**
+3. **Internal Development**
+
+Spending is aimed to be split roughly 33% to each category. This will not be enforced by the
+GrantSharesDAO governance, meaning that discussions off-chain should be conducted to reach the
+spending threshold.
+
+# GrantSharesDAO Members
+
+GrantSharesDAO is composed of 'Members', which are initially appointed by the Neo Foundation.
+Later on, the membership in the GrantSharesDAO is decided through proposals.
+The GrantSharesDAO Members are a small group of individuals/entities aiming to increase Neo's impact
+and reach through community activities.
 
 The Members analyze project proposals submitted to the GrantSharesDAO, with the goal to benefit
 the growth and development of the Neo ecosystem. Each DAO Member may vote to approve or reject a proposal.
-
-## Why?
-
-The GrantSharesDAO is designed to give the Neo community more agility to execute initiatives
-beyond those directly supported by the Neo Foundation or other grant-based programs,
-such as [EcoBoost](https://neo.org/eco#ecoboost), [EcoFund](https://neo.org/eco#ecofund),
-or [Early Adoption](https://neo.org/eco#earlyadoption). Therefore, GrantShares doesn't compete with
-those and is regarded as a complementary program.
-
-GrantShares offers an alternative avenue for seeding **new development projects at a grassroots
-level**, as well as to offer **existing groups new opportunities** for creativity and community growth.
-
-The DAO would welcome the submission of smaller grant requests that do not fit the scope of
-existing funding tracks provided by Neo (as mentioned above), and approving those of the
-highest quality that have the potential to bring value to the Neo ecosystem.
-
-## How?
-
-TBD
 
 ## First Things First 🚀
 
@@ -48,8 +55,7 @@ TBD.
 
 ## Acknowledgement 🙏
 
-[AxLabs](https://axlabs.com) leads, develops, and maintains the GrantSharesDAO, with
-the support from the whole community:
+GrantSharesDAO is maintained by [AxLabs](https://axlabs.com), with wide support from the Neo community:
 
 - [Neo Foundation](https://neo.org)
 - [Neo News Today](https://neonewstoday.com)
@@ -60,6 +66,7 @@ the support from the whole community:
 - [NSPCC](https://www.nspcc.ru/en/)
 - [NeoResearch](https://neoresearch.io)
 - [Red4Sec](https://red4sec.com)
+- [AxLabs](https://axlabs.com)
 
 ## License 📃
 
