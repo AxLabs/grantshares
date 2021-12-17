@@ -16,7 +16,7 @@ level**, as well as to offer **existing groups new opportunities** for creativit
 > existing funding tracks provided by Neo (as mentioned above), and approving those of the
 > highest quality that have the potential to bring value to the Neo ecosystem.
 
-## Areas of Interest for Funding
+## Areas of Interest for Funding 💡
 
 There are three main categories:
 
@@ -28,12 +28,12 @@ Spending is aimed to be split roughly 33% to each category. This will not be enf
 GrantSharesDAO governance, meaning that discussions off-chain should be conducted to reach the
 spending threshold.
 
-## GrantSharesDAO Members
+## GrantSharesDAO Members 👨‍👩‍👧‍👦
 
-GrantSharesDAO is composed of 'Members', which are initially appointed by the Neo Foundation.
-Later on, the membership in the GrantSharesDAO is decided through proposals.
-The GrantSharesDAO Members are a small group of individuals/entities aiming to increase Neo's impact
-and reach through community activities.
+GrantSharesDAO is composed of 'Members', which are initially appointed by the Neo Foundation. The
+GrantSharesDAO Members are a small group of individuals/entities aiming to increase Neo's impact
+and reach through community activities. Once deployed the DAO membership is set to be decided
+only through proposals -- either to remove existing members or to add new ones.
 
 The Members analyze project proposals submitted to the GrantSharesDAO, with the goal to benefit
 the growth and development of the Neo ecosystem. Each DAO Member may vote to approve or reject a proposal.
