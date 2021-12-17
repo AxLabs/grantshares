@@ -12,11 +12,11 @@ those and is regarded as a **complementary program**.
 GrantShares offers an *alternative* avenue for seeding **new development projects at a grassroots
 level**, as well as to offer **existing groups new opportunities** for creativity and community growth.
 
-> The DAO would welcome the submission of smaller grant requests that do not fit the scope of
+> The DAO welcomes the submission of smaller grant requests that do not fit the scope of
 > existing funding tracks provided by Neo (as mentioned above), and approving those of the
 > highest quality that have the potential to bring value to the Neo ecosystem.
 
-# Areas of Interest for Funding
+## Areas of Interest for Funding
 
 There are three main categories:
 
@@ -28,7 +28,7 @@ Spending is aimed to be split roughly 33% to each category. This will not be enf
 GrantSharesDAO governance, meaning that discussions off-chain should be conducted to reach the
 spending threshold.
 
-# GrantSharesDAO Members
+## GrantSharesDAO Members
 
 GrantSharesDAO is composed of 'Members', which are initially appointed by the Neo Foundation.
 Later on, the membership in the GrantSharesDAO is decided through proposals.
@@ -38,20 +38,20 @@ and reach through community activities.
 The Members analyze project proposals submitted to the GrantSharesDAO, with the goal to benefit
 the growth and development of the Neo ecosystem. Each DAO Member may vote to approve or reject a proposal.
 
-## First Things First 🚀
+## Project Structure 🛠
 
-This repo is organized as follows:
+GrantShares is developed in the following repos:
 
 - [grantshares-contracts](https://github.com/AxLabs/grantshares-contracts): submodule pointing to the repo where **GrantShares smart contract** is developed;
 - [grantshares-dapp](https://github.com/AxLabs/grantshares-dapp): submodule pointing to the repo where the **DApp (frontend)** is developed;
 
 ## GrantSharesDAO Governance ‍⚖️
 
-TBD.
+To be described.
 
 ## Docs 📄
 
-TBD.
+To be described.
 
 ## Acknowledgement 🙏
 
