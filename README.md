@@ -1,4 +1,6 @@
-# GrantShares Program 💰🚀💚
+![GrantShares Banner](./public/grantshares-banner.png)
+
+# GrantShares 
 
 The GrantShares Program is a discretionary grants program governed by the **GrantSharesDAO**, where
 funds are primarily provided by the Neo Foundation and partner initiatives in the Neo ecosystem.
