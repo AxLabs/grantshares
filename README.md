@@ -1,12 +1,10 @@
-<h2 align="center">
+<div align="center">
   <a href="https://grantshares.io/">
     <img width="500" src="./public/grantshares-banner.png" alt="GrantShares logo">
   </a>
-</h2>
+</div>
 
-<h3 align="center">A decentralized and transparent grants program for the Neo ecosystem</h3>
-
---- 
+<h2 align="center">A decentralized and transparent grants program for the Neo ecosystem</h2>
 
 The GrantShares Program is a discretionary grants program governed by the **GrantSharesDAO**, where
 funds are primarily provided by the Neo Foundation and partner initiatives in the Neo ecosystem.
