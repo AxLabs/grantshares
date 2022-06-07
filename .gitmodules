@@ -1,6 +1,8 @@
 [submodule "grantshares-contracts"]
 	path = grantshares-contracts
 	url = https://github.com/AxLabs/grantshares-contracts
+	branch = main
 [submodule "grantshares-app"]
 	path = grantshares-app
 	url = https://github.com/AxLabs/grantshares-app.git
+	branch = main
