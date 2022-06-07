@@ -1,10 +1,12 @@
-<h1 align="center">
+<h2 align="center">
   <a href="https://grantshares.io/">
     <img width="500" src="./public/grantshares-banner.png" alt="GrantShares logo">
   </a>
-</h1>
+</h2>
 
-# GrantShares 
+<h3 align="center">A decentralized and transparent grants program for the Neo ecosystem</h3>
+
+--- 
 
 The GrantShares Program is a discretionary grants program governed by the **GrantSharesDAO**, where
 funds are primarily provided by the Neo Foundation and partner initiatives in the Neo ecosystem.
@@ -49,15 +51,8 @@ the growth and development of the Neo ecosystem. Each DAO Member may vote to app
 GrantShares is developed in the following repos:
 
 - [grantshares-contracts](https://github.com/AxLabs/grantshares-contracts): submodule pointing to the repo where **GrantShares smart contract** is developed;
-- [grantshares-dapp](https://github.com/AxLabs/grantshares-dapp): submodule pointing to the repo where the **DApp (frontend)** is developed;
+- [grantshares-app](https://github.com/AxLabs/grantshares-app): submodule pointing to the repo where the **App (frontend)** is developed;
 
-## GrantSharesDAO Governance ‍⚖️
-
-To be described.
-
-## Docs 📄
-
-To be described.
 
 ## Acknowledgement 🙏
 
