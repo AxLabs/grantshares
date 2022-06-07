@@ -1,4 +1,8 @@
-![GrantShares Banner](./public/grantshares-banner.png)
+<h1 align="center">
+  <a href="https://grantshares.io/">
+    <img width="500" src="./public/grantshares-banner.png" alt="GrantShares logo">
+  </a>
+</h1>
 
 # GrantShares 
 
