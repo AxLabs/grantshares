@@ -44,13 +44,15 @@ only through proposals -- either to remove existing members or to add new ones.
 The Members analyze project proposals submitted to the GrantSharesDAO, with the goal to benefit
 the growth and development of the Neo ecosystem. Each DAO Member may vote to approve or reject a proposal.
 
-## Project Structure 🛠
+## Repositories 🛠
 
-GrantShares is developed in the following repos:
+The GrantShares **smart contracts** are developed at https://github.com/AxLabs/grantshares-contracts. The repository holds two contracts which are deployed on Neo N3 mainnet:
+- GrantSharesGov: [`0xf15976ea5c020aaa12b9989aa9880e990eb5dcc9`](https://explorer.onegate.space/contractinfo/0xf15976ea5c020aaa12b9989aa9880e990eb5dcc9). 
+- GrantSharesTreasury: [`0x6276c1e3a68280bc6c9c00df755fb691be1162ef`](https://explorer.onegate.space/contractinfo/0x6276c1e3a68280bc6c9c00df755fb691be1162ef)
 
-- [grantshares-contracts](https://github.com/AxLabs/grantshares-contracts): submodule pointing to the repo where **GrantShares smart contract** is developed;
-- [grantshares-app](https://github.com/AxLabs/grantshares-app): submodule pointing to the repo where the **App (frontend)** is developed;
+The **documentation** is maintained at https://github.com/AxLabs/grantshares-docs and deployed at https://docs.grantshares.io.
 
+The source code of the **web app** is currently not public.
 
 ## Acknowledgement 🙏
 
